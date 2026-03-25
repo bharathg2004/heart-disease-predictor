@@ -8,7 +8,11 @@
 A **Machine Learning powered web application** that predicts the likelihood of heart disease using user health parameters. Built with an intuitive UI using Streamlit.
 
 ---
+ Live Demo:
 
+https://heart-disease-predictor-ysd5tnez6ns2myr6zpungs.streamlit.app/
+
+---
 ##  App Preview:
 
 <img width="461" height="741" alt="image" src="https://github.com/user-attachments/assets/c6cce365-d223-4014-bcaa-7cf553df1954" />
